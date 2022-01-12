@@ -1,3 +1,11 @@
+@font-face {
+    font-family: Zombie;
+    src: url("ZOMBIE.TTF");
+}
+@font-face {
+    font-family: Hellodark;
+    src: url("HellodarkFree.otf");
+}
 body {
     background: url("bgTijolos.jpg");    
     min-width: 940px;
