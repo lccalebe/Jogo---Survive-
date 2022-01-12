@@ -1,10 +1,10 @@
 @font-face {
     font-family: Zombie;
-    src: url("ZOMBIE.TTF");
+    src: url('ZOMBIE.TTF') format('truetype');
 }
 @font-face {
     font-family: Hellodark;
-    src: url("HellodarkFree.otf");
+    src: url('HellodarkFree.otf') format('opentype');
 }
 body {
     background: url("bgTijolos.jpg");    
